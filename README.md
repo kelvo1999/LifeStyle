@@ -11,7 +11,7 @@
 
   <h2 align="center">Futras - Fitness Website</h2>
 
-  Futras is a fully responsive fitness website, <br />Responsive for all devices, build using HTML, CSS, and JavaScript.
+  Shisanya Wellness is a fully responsive fitness website, <br />Responsive for all devices, build using HTML, CSS, and JavaScript.
 
   <a href="https://codewithsadee.github.io/futras/"><strong>➥ Live Demo</strong></a>
 
